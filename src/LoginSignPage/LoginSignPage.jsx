@@ -56,9 +56,6 @@ function LoginSignPage() {
                     </div>
 
         </div>
-                    
-                    
-
                 </header>
             </>
         </div>
