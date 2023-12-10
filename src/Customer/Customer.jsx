@@ -44,7 +44,7 @@ axios.post(url,{
 
         <ul class="nav__links">
           <li class="nav__item">
-            <a class="nav__link" href="/home">
+            <a class="nav__link" href="/HomePage">
               Home
             </a>
           </li>

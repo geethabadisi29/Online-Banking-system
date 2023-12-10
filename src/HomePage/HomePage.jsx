@@ -31,7 +31,7 @@ function HomePage() {
                             <a class="nav__link" href="#section--3">Testimonials</a>
                         </li>
                         <li class="nav__item">
-                            <a class="nav__link" href="/">User</a>
+                            <a class="nav__link" href="/">Logout</a>
                         </li>
                         
                     </ul>

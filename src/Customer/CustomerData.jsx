@@ -26,7 +26,7 @@ function gettData(){
                     />
                 <ul class="nav__links">
                     <li class="nav__item">
-                        <a class="nav__link" href="/home">Home</a>
+                        <a class="nav__link" href="/HomePage">Home</a>
                     </li>
                     <li class="nav__item">
                         <a class="nav__link" href="/customerData">Customers</a>
